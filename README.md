@@ -1,2 +1,3 @@
 # dicom_viewer
-Dicom viewer and analyzer dedicated for CT scan with features like MPR, automation, measurement of distance, areas, angles, etc 
+Dicom viewer and analyzer dedicated for CT scan dicom images with features like MPR, automation, measurement of distance, areas, angles, etc.
+The user will login into the system. Then will select a "Project" then a "worklist". Each project can have multiple worklist. Each worklist contains CT images to be analyzed. In this way a set of images belongs to a project and to a worklist. Diferent projects can be diffeent departments in the hospital or practice for example: Proyect_1 is Cardiology where contains several worlist like: coronary cases, structural heart cases, or pediatric cases.
